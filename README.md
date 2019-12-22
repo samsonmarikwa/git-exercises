@@ -1,3 +1,3 @@
 # git-exercises
 Git exercises
-Version number 0.0.1
+Version number 0.0.2
